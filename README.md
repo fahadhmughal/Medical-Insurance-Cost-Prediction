@@ -66,5 +66,5 @@ This project predicts individual medical insurance costs using machine learning 
 
 ## Author
 **Fahad Mughal**  
-[GitHub](https://github.com/fahadhmughal) | [LinkedIn](www.linkedin.com/in/muhammad-fahad-68580b299)
+[GitHub](https://github.com/fahadhmughal) | [LinkedIn](https://www.linkedin.com/in/muhammad-fahad-68580b299/)
 
